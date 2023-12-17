@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #7a6d6d !important;
+}
+
+.cont :nth-child(2){
+    margin-left: 20px;
+}
+
+
+
+
